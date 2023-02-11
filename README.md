@@ -54,9 +54,8 @@
 <body>
 	<div class="content">
 		<h3>Casmo Team Query Tool</h3>
-				<a href="sorgu.php"><button class="s1">TC SORGU</button></a><br>
+		<a href="sorgu.php"><button class="s1">TC SORGU</button></a><br>
 		<a href="sorgug.php"><button class="s1">GSM SORGU</button></a><br>
-		<a href="https://discord.gg/EM7Hu5myqR" target="_BLANK" style="color:red;">DİSCORD</a>
 	</div>
 </body>
 </html>
